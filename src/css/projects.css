@@ -75,7 +75,7 @@
   color: var(--color-green);
 }
 
-.pizza .article:hover {
+.yellow .article:hover {
   box-shadow: var(--color-yellow) 0px 3px 8px;
 }
 
@@ -83,7 +83,7 @@
   box-shadow: #b260c7 0px 3px 8px;
 }
 
-.word-search .article:hover {
+.dark-blue .article:hover {
   box-shadow: #261153 0px 3px 8px;
 }
 
@@ -95,13 +95,13 @@
   box-shadow: #183268 0px 3px 8px;
 }
 
-.pizza .progress-done { background: var(--color-yellow); }
+.yellow .progress-done { background: var(--color-yellow); }
 .textando .progress-done { background: var(--color-purpleUltraLight); }
 .gitdex .progress-done { background: #183268; }
 .css-studies .progress-done { background: #b260c7; }
-.word-search .progress-done { background: #261153; }
+.dark-blue .progress-done { background: #261153; }
 
-.pizza .progress-text .percentage, .pizza .progress-text .percentage i {
+.yellow .progress-text .percentage, .yellow .progress-text .percentage i {
   color: var(--color-yellow);
 }
 
@@ -117,15 +117,15 @@
   color: #b260c7;
 }
 
-.word-search .progress-text .percentage, .word-search .progress-text .percentage i {
+.dark-blue .progress-text .percentage, .dark-blue .progress-text .percentage i {
   color: var(--color-lightWhite);
 }
 
-.pizza .progress-text { color: var(--background-color);}
+.yellow .progress-text { color: var(--background-color);}
 .textando .progress-text { color: var(--background-color); }
 .gitdex .progress-text { color: var(--color-lightWhite); }
 .css-studies .progress-text { color: var(--color-lightWhite);}
-.word-search .progress-text { color: var(--color-lightWhite);}
+.dark-blue .progress-text { color: var(--color-lightWhite);}
 
 .article .project-name .number {
   color: var(--color-green);
@@ -154,12 +154,12 @@
   box-shadow: 0 0 40px #b260c7;
 }
 
-.word-search .container {
+.dark-blue .container {
   background: #261153;
   box-shadow: 0 0 40px #261153;
 }
 
-.pizza .container {
+.yellow .container {
   background: var(--color-yellow);
   box-shadow: 0 0 40px var(--color-yellow);
 }

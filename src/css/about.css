@@ -92,6 +92,10 @@
 }
 
 .contacts .contact a:hover i {
+  color: var(--color-green);
+}
+
+.fa-instagram {
   color: var(--color-magenta);
 }
 
