@@ -66,8 +66,8 @@
 
 
 .facul-text {
-  width: 60%;
-  display: flex;
+  width: 100%;
+  display: table-column;
   justify-content: center;
   align-items: center;
   padding: 40px;
