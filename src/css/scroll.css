@@ -108,13 +108,14 @@
 .css-studies .progress:nth-child(3) .progress-done[data-scroll="in"] { width: 14%; }
 .css-studies .progress:nth-child(4) .progress-done[data-scroll="in"] { width: 18%; }
 
-.dark-blue .progress:nth-child(1) .progress-done[data-scroll="in"] { width: 28%; }
-.dark-blue .progress:nth-child(2) .progress-done[data-scroll="in"] { width: 30%; }
-.dark-blue .progress:nth-child(3) .progress-done[data-scroll="in"] { width: 42%; }
+.dark-blue .progress:nth-child(1) .progress-done[data-scroll="in"] { width: 56%; }
+.dark-blue .progress:nth-child(2) .progress-done[data-scroll="in"] { width: 25%; }
+.dark-blue .progress:nth-child(3) .progress-done[data-scroll="in"] { width: 12%; }
 
-.yellow .progress:nth-child(1) .progress-done[data-scroll="in"]{ width: 56%; }
-.yellow .progress:nth-child(2) .progress-done[data-scroll="in"] { width: 25%; }
-.yellow .progress:nth-child(3) .progress-done[data-scroll="in"] { width: 12%; }
+.yellow .progress:nth-child(1) .progress-done[data-scroll="in"]{ width: 18%; }
+.yellow .progress:nth-child(2) .progress-done[data-scroll="in"] { width: 28%; }
+.yellow .progress:nth-child(3) .progress-done[data-scroll="in"] { width: 18%; }
+.yellow .progress:nth-child(4) .progress-done[data-scroll="in"] { width: 36%; }
 
 .textando .progress:nth-child(1) .progress-done[data-scroll="in"]{ width: 34%; }
 .textando .progress:nth-child(2) .progress-done[data-scroll="in"] { width: 33%; }
