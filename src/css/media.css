@@ -77,8 +77,8 @@
   .about .title { width: 190px; }
   .camp .title { width: 250px; }
   .facul .title { width: 240px; }
-  .home .name { font-size: 2.8rem; }
-  .sub-name { font-size: 2.2rem; }
+  .home .name { font-size: 2.5rem; }
+  .sub-name { font-size: 2.1rem; }
   .open-source .title { width: 264px; }
   .open-description { width: 85%; }
   .json_box span { font-size: 1rem; }
@@ -98,8 +98,8 @@
   .about-text .text, .camp-text .text, .facul-text .text, .open-description, .tooltip .tooltiptext { font-size: 1rem; }
   .camp .title { width: 225px; }
   .facul .title { width: 215px; }
-  .home .name { font-size: 2.5rem; }
-  .sub-name { font-size: 1.9rem; }
+  .home .name { font-size: 2.0rem; }
+  .sub-name { font-size: 1.6rem; }
   .home .start button { padding: 12px 30px 12px 30px; font-size: 1.3rem; }
   .open-source .title { width: 237px; }
   .open-description { width: 100%; }
@@ -137,8 +137,8 @@
   .about-text .text, .camp-text .text, .facul-text .text { font-size: 0.8rem; }
   .camp .title { width: 210px; }
   .facul .title { width: 200px; }
-  .home .name { font-size: 2rem; }
-  .sub-name { font-size: 1.4rem; }
+  .home .name { font-size: 1.6rem; }
+  .sub-name { font-size: 1.2rem; }
   .home .start button { padding: 10px 25px 10px 25px; font-size: 1.1rem; }
   .open-source .title { width: 220px; }
   .open-description {
@@ -164,8 +164,8 @@
   .about .title { width: 155px; }
   .camp .title { width: 200px; }
   .facul .title { width: 190px; }
-  .home .name { font-size: 1.4rem; }
-  .sub-name { font-size: 1.3rem; }
+  .home .name { font-size: 1.2rem; }
+  .sub-name { font-size: 1.1rem; }
   .home .start button { padding: 8px 21px 8px 21px; font-size: 1rem; }
   .open-source .title { width: 210px; }
   .open-description { font-size: 0.8rem; text-align: center; }
